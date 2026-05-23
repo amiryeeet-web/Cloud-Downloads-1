@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9683",
+  "folder": "YouTube__watch_20260523074907_b5628a",
+  "base_name": "Boy_Boy_Discuss_Mr_Beast_Controversy_HsS_c-BwiuI_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/amiryeeet-web/Cloud-Downloads-1/releases/tag/co-releases-v1-9683",
+  "files": [
+    {
+      "name": "Boy_Boy_Discuss_Mr_Beast_Controversy_HsS_c-BwiuI_360p.mp4",
+      "url": "https://github.com/amiryeeet-web/Cloud-Downloads-1/releases/download/co-releases-v1-9683/Boy_Boy_Discuss_Mr_Beast_Controversy_HsS_c-BwiuI_360p.mp4",
+      "api_url": "https://api.github.com/repos/amiryeeet-web/Cloud-Downloads-1/releases/assets/427742441",
+      "id": 427742441,
+      "size": 112318871,
+      "download_count": 0
+    }
+  ]
+}
